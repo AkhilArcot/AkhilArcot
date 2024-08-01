@@ -12,7 +12,7 @@ I'm currently working on AI algorithms for insurance claims<br>I'm learning to m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkhilArcot&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ My Motto
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
