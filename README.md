@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm currently working on AI algorithms for insurance claims<br>I'm learning to make games
 
+# 👨‍💻 Coding experience:
+•	Created a 5-level Mario platformer game with multiple obstacles like goombas and bowser himself.<br>•	Ninja game, Temple run like game where people can run and accumulate score and try to shoot samurai with shuriken.<br>•	Elevens game, Simple card game that can have multiple themes and background and have an individual scoring system.<br>•	Battleship, Text based battleship game that can be played with the computer. Where you try and sink ships.<br>•	Red Cross website development for local school to look up info on the club.<br>•	AI internship using LLMs to indetify and process insurance claims used for companies like IBM and Aetna.
+
+# 🐱 Github link to projects:
+https://github.com/AkhilArcot/Projects
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
